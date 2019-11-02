@@ -1,0 +1,33 @@
+8
+
+Home Inn
+70
+2
+
+Jinjiang Hotel
+61
+2
+
+Harbin Solid Stone International Youth Hotel
+65
+1
+
+River Ring Hotel
+98
+3
+
+Dreamer Business Hotel
+56
+3
+
+Modern Hotel
+150
+4
+
+Earl Hotel
+138
+4
+
+Aoluguya Hotel
+178
+5

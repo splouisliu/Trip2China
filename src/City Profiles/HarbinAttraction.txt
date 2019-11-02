@@ -1,0 +1,73 @@
+9
+
+Saint Sophia Cathedral
+0.5
+3
+4.6
+true
+false
+false
+
+Central Street
+0.5
+0
+4.7
+false
+true
+false
+
+Ice and Snow World
+0.5
+30
+4.6
+false
+true
+false
+
+Sun Island
+1
+10
+4.3
+false
+false
+true
+
+Songhua River
+0.5
+0
+4.6
+false
+false
+true
+
+Old Chinese Baroque
+0.5
+0
+4.3
+true
+false
+false
+
+Volga Manor
+0.5
+20
+4.7
+true
+false
+true
+
+Heilongjiang Science Centre
+0.5
+0
+4.6
+false
+true
+false
+
+Dragon Tower
+0.5
+30
+4.5
+false
+true
+false

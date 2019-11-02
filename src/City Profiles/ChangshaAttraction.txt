@@ -1,0 +1,49 @@
+6
+
+Orange Island
+0.5
+0
+4.5
+false
+false
+true
+
+Yue Lu Mountain
+1
+0
+4.5
+false
+false
+true
+
+Window of the World
+1
+30
+4.5
+false
+true
+false
+
+Fire Palace
+0.5
+0
+4.1
+true
+false
+false
+
+Jinggang Ancient Tower
+1
+16
+4.2
+true
+false
+false
+
+Should's Ancestral Hall
+0.5
+0
+3.8
+true
+false
+false

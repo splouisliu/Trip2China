@@ -1,0 +1,29 @@
+7
+
+Hanting Express
+20
+1
+
+7 Days Hotel
+20
+2
+
+Jinrong Hotel
+20
+3
+
+Haizhixing Express Hotel
+18
+3
+
+Century Tianlun Hotel
+55
+4
+
+Bavaria Regent Hotel
+84
+5
+
+Jiahishao Hotel
+70
+5

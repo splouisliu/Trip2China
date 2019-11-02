@@ -1,0 +1,33 @@
+8
+
+Jinjiang Inn
+26
+2
+
+Super 8
+31
+1
+
+C.Sohoh Bsiness Hotel
+52
+3
+
+Shandong International Hotel
+37
+3
+
+Jinan Nishihaitai Hotel
+46
+4
+
+Jinan Jihua Hotel
+62
+4
+
+Jinan Shandong Hotel
+123
+5
+
+Emjoy Hotel
+100
+5

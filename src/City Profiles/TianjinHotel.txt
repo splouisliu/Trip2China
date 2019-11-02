@@ -1,0 +1,29 @@
+7
+
+Jinjiang Inn
+34
+1
+
+Home Inn
+38
+2
+
+Tianjin Starway Shuanglu Mansion Hotel
+44
+3
+
+Orange Hotel
+60
+3
+
+Tianjin Friendship Hotel
+112
+4
+
+Huaxin Peninsula Hotel
+64
+4
+
+Pan Pacific Tianjin
+130
+5

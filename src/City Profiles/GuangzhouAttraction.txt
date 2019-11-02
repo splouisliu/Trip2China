@@ -1,0 +1,57 @@
+7
+
+Chime-Long Paradise
+1
+50
+4.8
+false
+true
+false
+
+Chime-Long Safari Park
+1
+50
+4.8
+false
+false
+true
+
+Chime-Long Water Park
+1
+40
+4.8
+false
+true
+false
+
+Canton Tower
+0.5
+30
+4.6
+false
+true
+false
+
+Memorial Hall of the Old Site of the Whampoa Military Academy
+0.5
+0
+4.4
+true
+false
+false
+
+Chen Clan Ancestral Hall
+0.5
+2
+4.5
+true
+false
+false
+
+Sun Yat-Sen Memorial Hall
+0.5
+2
+4.5
+true
+false
+false

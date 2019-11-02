@@ -1,0 +1,29 @@
+7
+
+Anohana Inn of Gulangyu
+18
+2
+
+7 Days Inn
+38
+1
+
+Millan Hotel
+42
+3
+
+Orange Hotel
+60
+3
+
+Yong Li Da Garden Hotel
+88
+4
+
+Asia Gulf Hotel
+80
+5
+
+Xiamen Wutong Fliport Hotel
+128
+5

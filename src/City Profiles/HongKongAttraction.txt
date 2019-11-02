@@ -1,0 +1,57 @@
+7
+
+Hong Kong Disneyland
+1
+90
+4.8
+false
+true
+false
+
+Hong Kong Ocean Park
+1
+88
+4.7
+false
+true
+false
+
+Victoria Peak
+0.5
+0
+4.6
+false
+false
+true
+
+Victoria Harbour
+0.5
+0
+4.5
+false
+false
+true
+
+Tsim Sha Tsui
+1
+0
+4.7
+false
+true
+true
+
+Wong Tai Sin Temple
+0.5
+0
+4.4
+true
+false
+false
+
+Lantau Island
+0.5
+0
+4.4
+false
+false
+true

@@ -1,0 +1,73 @@
+9
+
+Forbidden City
+1
+12
+4.8
+true
+false
+false
+
+The Great Wall
+1
+8
+4.6
+true
+false
+true
+
+The Summer Palace
+0.5
+6
+4.7
+true
+false
+true
+
+Tian'anmen Square
+0.5
+0
+4.7
+true
+false
+false
+
+National Stadium
+0.5
+10
+4.6
+false
+true
+false
+
+798 Art District
+0.5
+0
+4.5
+false
+true
+false
+
+Happy Valley Beijing
+1
+52
+4.7
+false
+true
+false
+
+Beijing WTown
+2
+30
+4.6
+false
+false
+true
+
+Temple of Heaven
+0.5
+3
+4.6
+true
+false
+false

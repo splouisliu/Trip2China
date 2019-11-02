@@ -1,0 +1,49 @@
+6
+
+Hulunbuir Grassland
+1
+0
+4.7
+false
+false
+true
+
+Ergun Wetland Park
+1
+13
+4.5
+false
+false
+true
+
+Manzhouli
+1
+0
+4.6
+true
+false
+true
+
+Shiwei Town
+0.5
+0
+4.1
+true
+false
+false
+
+Moerdaoga National Forest Park
+0.5
+32
+4.1
+false
+false
+true
+
+Ice and Snow Paradise of China, Russia and Mongolia
+0.5
+44
+4.5
+false
+true
+false

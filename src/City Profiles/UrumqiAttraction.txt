@@ -1,0 +1,65 @@
+8
+
+Urumqi Botanical Garden
+0.5
+1
+4.5
+false
+false
+true
+
+Xinjiang International Bazaar
+0.5
+0
+4.3
+false
+true
+false
+
+Xinjiang Uygur Autonomous Region Museum
+0.5
+0
+4.5
+true
+false
+false
+
+Hongshan Park
+0.5
+0
+4.4
+false
+false
+true
+
+Urumqi Glacier No.1, Tianshan Mountains
+0.5
+3
+4.4
+false
+false
+true
+
+Chrysanthemums Terrace
+1
+0
+4.4
+false
+false
+true
+
+Tianshan Barhome Winery
+0.5
+0
+4.6
+false
+true
+false
+
+Heavenly Lake
+1
+25
+4.5
+false
+false
+true

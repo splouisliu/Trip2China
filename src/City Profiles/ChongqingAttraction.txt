@@ -1,0 +1,57 @@
+7
+
+Ciqikou Ancient Town
+0.5
+0
+4.3
+true
+false
+false
+
+White Residence Prison Site
+0.5
+0
+4.3
+true
+false
+false
+
+Prison Zhazi
+0.5
+0
+4.3
+true
+false
+false
+
+Wulong Natural Bridge
+1
+27
+4.6
+false
+false
+true
+
+Monument for Liberation Pedestrian Street
+1
+0
+4.5
+false
+true
+false
+
+Hongyadong Commercial Street
+1
+0
+4.5
+false
+true
+false
+
+Dragon Water Gorge Sam
+0.5
+23
+4.6
+false
+false
+true

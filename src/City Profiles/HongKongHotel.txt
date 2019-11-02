@@ -1,0 +1,33 @@
+8
+
+Hi Inn
+35
+1
+
+Wide Ever Hotel
+58
+2
+
+M Easy Hotel
+93
+2
+
+OZO Wesley Hong Kong
+222
+3
+
+Travelodge Kowloon
+127
+3
+
+Empire Prestige Causeway Bay
+190
+4
+
+Harbour Plaza Resort City
+90
+4
+
+Crowne Plaza Hong Kong Causeway Bay
+320
+5

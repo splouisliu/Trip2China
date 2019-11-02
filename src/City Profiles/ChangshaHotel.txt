@@ -1,0 +1,29 @@
+7
+
+Jinjiang Inn
+38
+2
+
+Motel 168
+31
+1
+
+Orange Hotel
+53
+3
+
+Changsha Starway Huiyou Hotel
+38
+3
+
+Huaruihe Hotel
+80
+4
+
+Wonder Hotel
+60
+4
+
+Exotic Royal Hotel
+123
+5

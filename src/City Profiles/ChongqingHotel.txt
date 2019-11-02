@@ -1,0 +1,29 @@
+7
+
+Howei Serviced Apartment
+45
+2
+
+Steinlahm Hotel
+54
+2
+
+7 Days Hotel
+25
+1
+
+Hangrui Hotel
+29
+3
+
+Dada Hotel
+38
+3
+
+Air China Hotel
+60
+4
+
+T Moon Hotel
+107
+5

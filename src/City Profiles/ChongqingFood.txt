@@ -1,0 +1,25 @@
+5
+
+Hot Pot
+30
+4.5
+
+Hot and Sour Rice Noodles
+4
+4.2
+
+Mao Xue Wang
+12
+4.1
+
+Tofu Pudding
+4
+4.7
+
+Chicken with Chilies
+10
+3.7
+
+Fish Filets in Hot Chili Oil
+20
+4.1

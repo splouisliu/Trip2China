@@ -1,0 +1,25 @@
+6
+
+Piao Home Inn
+70
+1
+
+Orange Hotel
+60
+2
+
+Jin Yue Tai Hotel
+133
+3
+
+Dafang Hotel
+80
+4
+
+Beijing Xinyuan Hotel
+134
+5
+
+Beijing He Ping Li Hotel
+60
+3

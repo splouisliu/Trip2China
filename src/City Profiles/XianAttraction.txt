@@ -1,0 +1,65 @@
+8
+
+Emperor Qishihuang's Mausoleum Site Museum
+0.5
+30
+4.6
+true
+false
+false
+
+Shanxi History Museum
+0.5
+0
+4.6
+true
+false
+false
+
+Tang Paradise
+0.5
+24
+4.4
+true
+false
+false
+
+Xi'an Qinling Wildlife Zoo
+0.5
+20
+4.4
+false
+false
+true
+
+Li Mountain
+0.5
+30
+4.2
+true
+false
+true
+
+Cuihua Mountain
+0.5
+14
+4.6
+false
+false
+true
+
+Yanta North Plaza
+0.5
+0
+4.6
+false
+true
+false
+
+Qujiang Ocean World Park
+0.5
+36
+4.4
+false
+true
+true

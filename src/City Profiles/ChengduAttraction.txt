@@ -1,0 +1,57 @@
+7
+
+Dujiangyan City
+1
+18
+4.7
+true
+false
+true
+
+Jinli Ancient Street
+0.5
+0
+4.4
+true
+false
+false
+
+Wide and Narrow Alleys
+0.5
+0
+4.4
+true
+false
+false
+
+Mount Qingcheng
+1
+18
+4.6
+false
+false
+true
+
+Chengdu Research Base of Giant Panda
+0.5
+11.6
+4.6
+false
+false
+true
+
+Happy Valley
+1
+40
+4.6
+false
+true
+false
+
+Paradise Island Ocean Park
+0.5
+40
+4.6
+false
+true
+false

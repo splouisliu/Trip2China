@@ -1,0 +1,17 @@
+4
+
+Milk Tea
+3
+3.4
+
+Roast Whole Lamb
+400
+4.9
+
+Kumiss
+7
+4.1
+
+Roast Mutton Leg
+20
+4.3

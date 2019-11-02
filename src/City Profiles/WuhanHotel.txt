@@ -1,0 +1,29 @@
+7
+
+Motel 268
+36
+1
+
+Procence Garden Hotel
+40
+1
+
+Mulan Chain Hotel
+50
+2
+
+Xunlimen Hotel
+46
+4
+
+Donghu Hotel
+132
+4
+
+Hooward Johnson Pearl Plaza
+112
+5
+
+Royal Suites Tower
+118
+5

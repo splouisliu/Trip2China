@@ -1,0 +1,33 @@
+8
+
+Orange Hotel
+40
+2
+
+Hanting Express
+30
+1
+
+Hiking Hotel
+118
+3
+
+Overseas Chinese Hotel
+70
+3
+
+Merchant Marco Hotel
+80
+4
+
+Zhongshan International Hotel
+62
+4
+
+Zhejiang West Lake Villa
+180
+5
+
+Hangzhou Zhong Wei Sunny Hotel
+126
+5

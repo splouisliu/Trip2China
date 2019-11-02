@@ -1,0 +1,49 @@
+6
+
+Baotu Spring Park
+0.5
+8
+4.4
+true
+false
+true
+
+Da Ming Lake
+0.5
+0
+4.4
+false
+false
+true
+
+Thousand Buddha Mountain
+0.5
+6
+4.5
+false
+false
+true
+
+Fu Yung Street
+0.5
+0
+4.4
+true
+false
+false
+
+Jiuru Mountain Falls
+1
+24
+4.7
+false
+false
+true
+
+Oriental Heritage
+1
+45
+4.8
+false
+true
+false

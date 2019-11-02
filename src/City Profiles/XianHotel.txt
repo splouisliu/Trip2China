@@ -1,0 +1,21 @@
+5
+
+Hanting Hotel
+46
+2
+
+Towo Topping Hotel
+45
+1
+
+Li Ging Hotel
+58
+3
+
+Mehood Lestie Hotel
+100
+4
+
+Rongmin International Hotel
+64
+5

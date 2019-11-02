@@ -1,0 +1,29 @@
+7
+
+Smile Lane Youth Hotel
+10
+2
+
+Kaibin Hotel
+40
+1
+
+City Inn
+50
+2
+
+Howdy Smart Hotel
+46
+3
+
+Chengdu Complex International Hotel
+62
+4
+
+Sofis Jinyuan Hotel
+100
+5
+
+Celebrity City Hotel
+109
+5

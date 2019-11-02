@@ -1,0 +1,81 @@
+10
+
+Shanghai Disney Resort
+1
+74
+4.6
+false
+true
+false
+
+The Bund
+0.5
+0
+4.7
+false
+true
+false
+
+The Oriental Pearl Radio and TV Tower
+0.5
+44
+4.6
+false
+true
+false
+
+City Tod Temple of Shanghai
+0.5
+2
+4.3
+true
+false
+false
+
+Shanghai Wild Animal Park
+1
+26
+4.7
+false
+false
+true
+
+Lujiazui
+0.5
+0
+4.7
+false
+true
+false
+
+Tian Zi Fang
+0.5
+0
+4.4
+false
+true
+false
+
+Madame Tussaud's
+0.5
+38
+4.5
+false
+true
+false
+
+Yu Garden
+0.5
+8
+4.6
+true
+false
+true
+
+Dongping National Forest Park
+0.5
+14
+4.5
+false
+false
+true

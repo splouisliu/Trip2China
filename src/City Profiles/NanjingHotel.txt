@@ -1,0 +1,37 @@
+9
+
+Jinjiang Inn
+34
+2
+
+Hanting Express
+34
+1
+
+Home Inn
+34
+2
+
+Orange Hotel
+58
+3
+
+YMCA Hotel
+52
+3
+
+Cyrstal Orange Hotel
+80
+4
+
+Sen Long Hotspring Resort
+91
+4
+
+Celebrity City Hotel
+107
+5
+
+Lakeview Xuanwu Hotel
+116
+5

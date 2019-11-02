@@ -1,0 +1,21 @@
+5
+
+Oil Spin
+1.5
+4.2
+
+Sweet and Sour Carp
+17
+4.5
+
+Stir-Fried Kidney
+15
+4.3
+
+Sweet Foam
+2
+3.7
+
+Noddles with Gravy
+6
+4.1

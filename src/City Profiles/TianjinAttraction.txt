@@ -1,0 +1,57 @@
+7
+
+The Tientsin Eye
+0.5
+14
+4.5
+false
+true
+false
+
+Tianjin Italian Style
+0.5
+0
+4.4
+true
+false
+false
+
+Ancient Cultural Street
+0.5
+0
+4.3
+true
+false
+false
+
+Haihe River
+0.5
+10
+4.6
+false
+false
+true
+
+St. Joseph's Cathedral Church
+0.5
+0
+4.6
+true
+false
+false
+
+Binhai Aircraft Carrier Theme Park
+0.5
+44
+4.5
+false
+true
+false
+
+Limutai Scenic Spot
+1
+10
+4.4
+false
+false
+true

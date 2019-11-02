@@ -1,0 +1,41 @@
+5
+
+Kulangsu
+1
+0
+4.4
+false
+false
+true
+
+Xiamen University
+0.5
+0
+4.5
+false
+true
+false
+
+Zeng Cuo An
+1
+0
+4.3
+true
+false
+false
+
+Oriental Heritage
+1
+52
+4.6
+false
+true
+false
+
+Baicheng Beach
+0.5
+0
+4.5
+false
+true
+false
